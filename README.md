@@ -10,8 +10,8 @@ Handles unexpected interruptions (e.g., Ctrl+C)
 Displays a summary of the copy process (number of files, size, errors, etc.)
 
 Requirements
-tqdm library
-
+Python ( https://www.python.org/downloads/ )
+tqdm library ( in CMD:  python -m pip install tqdm )
 
 
 How It Works
@@ -35,7 +35,7 @@ Run the script.
 After completion, a log file like this will appear in the destination folder:
 
 
-log_kopiowania_2025-04-15_12-32-10.txt
+log_copy_2025-04-15_12-32-10.txt
 Log File Example
 
 Started copying on: 2025-04-15 12:32:10
